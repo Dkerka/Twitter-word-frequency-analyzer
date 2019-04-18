@@ -13,4 +13,4 @@ Takes the .csv archive provided by Twitter containing every tweet an account has
 - Compile with the following command:
   - c"at tweets.csv | ./map n | sort | ./reduce | sort -n -k n+1  > tweet_data.txt"
     - n being an integer representing the amount of words in the assocaited n-gram (use 1 for first run)  
-  - tweet_data.txt file will be generated containing the associated n-grams and how many times they've been used in your Twitter History!
+  - tweet_data.txt file will be generated containing the associated n-grams and how many times they've been used them in your Twitter History!
