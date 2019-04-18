@@ -11,6 +11,6 @@ Takes the .csv file containing every tweet an account has ever sent and returns 
 - If not using makefile build with following command:
    - "g++ -o  map map.cc | g++ -o reduce reduce.cc"
 - Compile with the following command:
-  - cat tweets.csv | ./map n | sort | ./reduce | sort -n -k n+1  > tweet_data.txt
+  - c"at tweets.csv | ./map n | sort | ./reduce | sort -n -k n+1  > tweet_data.txt"
     - n being an integer representing the amount of words in the assocaited n-gram (use 1 for first run)  
   - tweet_data.txt file will be generated containing the associated n-grams and how many times they've been used in your Twitter History!
