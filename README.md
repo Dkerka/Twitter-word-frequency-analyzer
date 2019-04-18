@@ -1,6 +1,6 @@
 # Twitter-word-frequency-analyzer
 ## Description:
-Takes the .csv file containing every tweet an account has ever sent and returns the frequency of many times words were used in the tweets
+Takes the .csv archive provided by Twitter containing every tweet an account has ever sent and returns the frequency of many times words were used in the tweets
 ## Initial Steps:
 - First: Navigate to "settings and privacy" within your Twitter account
 - Next:  Click "request archive" to be given an archive of all the tweets sent from your Twitter account
