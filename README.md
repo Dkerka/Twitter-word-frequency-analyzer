@@ -2,7 +2,7 @@
 ## Description:
 Takes the .csv archive provided by Twitter containing every tweet an account has ever sent and returns the frequency of many times words were used in the tweets
 ## Initial Steps:
-- First: Navigate to "settings and privacy" within your Twitter account
+- First: Navigate to "Privacy and Safety" within your Twitter account
 - Next:  Click "request archive" to be given an archive of all the tweets sent from your Twitter account
 - Next:  Retrieve the tweets.csv file from the archive that is sent to you by Twitter
 ## Compilation:
